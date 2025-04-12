@@ -11,7 +11,7 @@ const Background = ({ playStatus, heroCount }) => {
         return (
             <div className='background fade-in' autoPlay loop muted>
                 <ReactPlayer
-                    url="https://www.youtube.com/watch?v=6DiGfIrWIcA"
+                    url="https://www.youtube.com/watch?v=N7dSyJvjBFo"
                     playing={playStatus}
                     controls
                     width="100%"
